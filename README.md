@@ -1,2 +1,9 @@
 # hello-world
-Just first step
+Just a first step
+.
+.
+.
+.
+.
+.
+Have a good day!
